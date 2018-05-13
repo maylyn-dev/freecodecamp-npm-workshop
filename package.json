@@ -15,5 +15,8 @@
     "url": "https://github.com/maylyn-dev/freecodecamp-npm-workshop/issues"
   },
   "homepage": "https://github.com/maylyn-dev/freecodecamp-npm-workshop#readme",
-  "description": ""
+  "description": "",
+  "dependencies": {
+    "@linclark/pkg": "^1.0.2"
+  }
 }

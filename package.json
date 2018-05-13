@@ -1,0 +1,19 @@
+{
+  "name": "freecodecamp-npm-workshop",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Maylyn Talampas",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/maylyn-dev/freecodecamp-npm-workshop.git"
+  },
+  "bugs": {
+    "url": "https://github.com/maylyn-dev/freecodecamp-npm-workshop/issues"
+  },
+  "homepage": "https://github.com/maylyn-dev/freecodecamp-npm-workshop#readme",
+  "description": ""
+}
